@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "version": "3.0",
+  "name": "Fx Preview Light",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(255, 255, 255)",
+      "bookmark_text": "rgb(19, 16, 39)",
+      "frame": "rgb(255, 255, 255)",
+      "tab_background_text": "rgb(19, 16, 39)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(19, 16, 39)",
+      "tab_line": "rgb(19, 16, 39)",
+      "popup": "rgb(19, 16, 39)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(19, 16, 39)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+      "popup_highlight": "rgb(19, 16, 39)",
+      "toolbar_field_border": "rgb(19, 16, 39)",
+      "toolbar_field_focus": "rgb(255, 255, 255)",
+      "toolbar_field_border_focus": "rgb(19, 16, 39)",
+      "ntp_background": "rgb(255, 255, 255)",
+      "ntp_text":"rgb(19, 16, 39)"
+    }
+  }
+}
