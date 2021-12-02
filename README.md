@@ -1,5 +1,5 @@
 # Fx-Preview-Light
 
-Theme for Firefox at https://addons.mozilla.org/en-GB/firefox/addon/fenix-preview-light/
+Theme for Firefox.
 
 Licence is Creative Commons Attribution-NonCommercial-Share Alike 3.0
